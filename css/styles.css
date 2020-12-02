@@ -1,0 +1,81 @@
+.bcc
+{
+    background-color: #383E42;
+}
+
+.font
+{
+    font-family: FreeMono;
+    color: rgb(217, 228, 233);
+}
+
+.fsize
+{
+    font-size: 22px;
+}
+
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td
+{
+    border: 1px solid black;
+    padding: 3px;
+}
+
+th
+{
+    border: none;
+}
+ul 
+{
+    font-family: FreeMono;
+    font-size: large;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #383E42;
+    position: absolute; 
+    left: 35%;
+    top: 0%
+}
+  
+li 
+{
+    float: left;
+}
+  
+li a 
+{
+    display: block;
+    color: rgb(217, 228, 233);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.CVmain
+{
+    background-color: rgb(35, 36, 37);
+    position: absolute; 
+    left: 30%; 
+    top: 15%;
+    width: 60%;
+}
+
+.txt2
+{
+    position: relative; 
+    left: 2%; 
+    width: 98%;
+}
+.txt5
+{
+    position: relative; 
+    left: 5%; 
+    width: 95%;
+}
